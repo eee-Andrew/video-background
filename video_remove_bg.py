@@ -8,7 +8,7 @@ def background_subtraction(reference_image, current_frame, threshold=50):
     return subtracted
 
 # Διαδικασία ανάγνωσης του βίντεο
-video_path = r'C:\Users\eeean\Downloads\ice-timeline.mp4'
+video_path = r'C:\Users\xxxxxxxxxx.mp4'
 
 
 video_capture = cv2.VideoCapture(video_path)
